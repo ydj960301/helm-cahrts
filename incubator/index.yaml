@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  postgres:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-13T17:11:32.428005467+09:00"
+    description: A Helm chart for PostgresQL
+    digest: 53b831988acf7a0d27d88d6510ab1fbb1477ecc38231f456365d9032a207da19
+    name: postgres
+    type: application
+    urls:
+    - postgres-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-13T17:11:32.427240064+09:00"
