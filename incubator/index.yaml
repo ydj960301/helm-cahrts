@@ -3,9 +3,19 @@ entries:
   postgres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-14T13:58:42.526531304+09:00"
+    created: "2021-05-14T14:11:52.908418591+09:00"
     description: A Helm chart for PostgresQL
-    digest: 74e6f95a43b6b0d716f136812fd6635ff0e87b14fedf6c7e5dd239395669a692
+    digest: ff34611a8994b6fd24d5d22e40ab3a62515bce224b9f12385aa68ea71bc4fe84
+    name: postgres
+    type: application
+    urls:
+    - postgres-0.2.4.tgz
+    version: 0.2.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-14T14:11:52.907782484+09:00"
+    description: A Helm chart for PostgresQL
+    digest: 97aae59286220936f84f1e0723c25164c6df41ed213433cf7673c01927761802
     name: postgres
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-14T13:58:42.525666936+09:00"
+    created: "2021-05-14T14:11:52.90710412+09:00"
     description: A Helm chart for PostgresQL
     digest: d76e8368dbb742fa498a643634661bb0c904d79c423008b85481b2b15082174d
     name: postgres
@@ -23,7 +33,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-14T13:58:42.52487246+09:00"
+    created: "2021-05-14T14:11:52.906487102+09:00"
     description: A Helm chart for PostgresQL
     digest: 3591b2581468ae930655cfe3097fab74933552d787867662f9451d8648d83aac
     name: postgres
@@ -33,7 +43,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-14T13:58:42.524059114+09:00"
+    created: "2021-05-14T14:11:52.905475716+09:00"
     description: A Helm chart for PostgresQL
     digest: 596239bb97ee16de0c9791541f543d4e5ed8300e465d63b044d979d680726703
     name: postgres
@@ -43,7 +53,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-14T13:58:42.523180081+09:00"
+    created: "2021-05-14T14:11:52.904423447+09:00"
     description: A Helm chart for PostgresQL
     digest: 53b831988acf7a0d27d88d6510ab1fbb1477ecc38231f456365d9032a207da19
     name: postgres
@@ -51,4 +61,4 @@ entries:
     urls:
     - postgres-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-14T13:58:42.522081701+09:00"
+generated: "2021-05-14T14:11:52.903630779+09:00"
